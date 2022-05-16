@@ -15,3 +15,4 @@
 - Medium : [@query](https://query0.medium.com/)
 - TryHackMe : [@MUZ0](https://tryhackme.com/p/MUZ0)
 - HackTheBox : [@Qu3ry](https://www.hackthebox.eu/profile/417460)
+- Twitter : [Query1337](https://twitter.com/Query1337)
